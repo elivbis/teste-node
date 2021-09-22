@@ -38,6 +38,6 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 
 ## Entrega
 
-Após concluir o desafio, adicionar o código ao seu Github em seu repositório de preferência.
+Após concluir o desafio, adicionar o código em seu repositório de preferência.
 
 “Sua única limitação é você mesmo”!
